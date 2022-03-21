@@ -12,7 +12,7 @@
 
 - 👨‍💻 Few of my projects are available at **[My Portfolio](https://fwd-portfolio-ouzagluow-dkjaiswal771999-gmailcom.vercel.app).**
 
-- 📫 How to reach me **dkjaiswal771999@gmail.com.**
+- 📫 How to reach me? --> **dkjaiswal771999@gmail.com.**
 
 - ⚡ Fun fact **I do stretching and gymnastics.**
 
