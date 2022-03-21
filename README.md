@@ -6,7 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently enrolled in **Full Stack Web Development Course at Masai School.**
+- ⚡ **I am extremely passionate of building web apps.**
+
+- 🌱 Currently, I am learning **React.**
 
 - 👨‍💻 Few of my projects are available at **[My Portfolio](https://fwd-portfolio-ouzagluow-dkjaiswal771999-gmailcom.vercel.app).**
 
