@@ -31,13 +31,13 @@
 
 <br/>
 
+## 📊 My Github Stats
+<br/>
 <p align="center">
     <a href="https://github.com/dk-jaiswal-77/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dk-jaiswal-77's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-jaiswal-77&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/dk-jaiswal-77/github-readme-stats"><img alt="dk-jaiswal-77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dk-jaiswal-77&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
