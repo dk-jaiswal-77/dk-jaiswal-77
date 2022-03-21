@@ -4,7 +4,8 @@
 <h3 align="center">I'm a Full Stack Developer from India.</h3>
 
 <br/>
-## 🙋‍♂️ About Me
+
+## 🙋‍♂️ About Me:
 
 - ⚡ **I am extremely passionate of building web apps.**
 
