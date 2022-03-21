@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dhirendra.</h1>
 <h3 align="center">I'm a Full Stack Developer from India.</h3>
 
-
+<br/>
 ## 🙋‍♂️ About Me
 
 - ⚡ **I am extremely passionate of building web apps.**
@@ -15,6 +15,9 @@
 - 📫 How to reach me **dkjaiswal771999@gmail.com.**
 
 - ⚡ Fun fact **I do stretching and gymnastics.**
+
+<br/>
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -30,6 +33,7 @@
 </p>
 
 <br/>
+<br/>
 
 ## 📊 My Github Stats
 <br/>
@@ -39,12 +43,14 @@
     </a>
 </p>
 
-  <br/>
+<br/>
+  
     <a href="https://github.com/dk-jaiswal-77/github-readme-stats"><img alt="dk-jaiswal-77's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dk-jaiswal-77&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/dk-jaiswal-77/github-readme-stats"><img alt="dk-jaiswal-77's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-jaiswal-77&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+<br/>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
@@ -61,4 +67,5 @@
 <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
+<br/>
 
