@@ -9,13 +9,9 @@
 
 - ⚡ **I am extremely passionate of building web apps.**
 
-- 🌱 Currently, I am learning **React.**
-
 - 👨‍💻 Few of my projects are available at **[My Portfolio](https://fwd-portfolio-ouzagluow-dkjaiswal771999-gmailcom.vercel.app).**
 
 - 📫 How to reach me? --> **dkjaiswal771999@gmail.com.**
-
-- ⚡ Fun fact **I do stretching and gymnastics.**
 
 <br/>
 <br/>
